@@ -1,8 +1,8 @@
 [
   {
-    "remote": "github",
-    "repository": "scanno/android_device_samsung_msm8976-common",
+    "remote": "omnirom",
+    "repository": "android_device_samsung_msm8976-common",
     "target_path": "device/samsung/msm8976-common",
-    "revision": "test"
+    "revision": "android-7.1"
   }
 ]
